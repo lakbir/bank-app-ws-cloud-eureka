@@ -31,9 +31,6 @@
 | docker ps     | Liste les conteneurs en cours d'exécution   |
 | docker logs container_id / image_name     | Afficher les logs d'un conteneurs   |
 | docker stop container_id     | Arrête un ou plusieurs conteneurs en cours d'exécution.   |
-| docker ps     | Liste les conteneurs en cours d'exécution   |
-| docker ps     | Liste les conteneurs en cours d'exécution   |
-| docker ps     | Liste les conteneurs en cours d'exécution   |
 | docker start container_id | Démmare un ou plusieurs conteneurs en arret |
 | docker restart container_id | Redémarre un conteneur|
 | docker images | Liste les images disponibles sur la machine|
