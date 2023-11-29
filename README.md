@@ -22,7 +22,7 @@
   - Resilience 4j : pour que si l'un des ws DOWN n'impact pas les autres ws et on lui fournir une réponse par défaut en cas de problème.
   - OpenFeign est une bibliothèque Java qui simplifie le développement de clients HTTP en utilisant une interface déclarative. Elle fait partie de la suite Spring Cloud et est souvent utilisée dans les applications basées sur microservices.
 
-## Docker : 
+## Les commandes Docker utilisées : 
 
   - docker compose down
   - docker compose up -d --build
