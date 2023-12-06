@@ -40,3 +40,4 @@
 | docker rm ID_conteneur | supprime un ou plusieurs conteneurs|
 | docker rm image_id | supprime une ou plusieurs images|
 | docker attach container_id | Attacher un terminal / console à un container pour executer des commande dans le container|
+| docker inspect container_id | inspecter et afficher les informations d'un container|
